@@ -3,3 +3,5 @@ Hi!
 Change done from Pratiks Machiine 
 
 this is PRatiks file
+
+This is tushar testing GIT Conflict with Pratik file
